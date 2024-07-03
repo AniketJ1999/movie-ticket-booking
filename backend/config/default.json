@@ -1,0 +1,6 @@
+{
+  "mongoURI": "your_mongodb_uri",
+  "jwtSecret": "your_jwt_secret",
+  "razorpayKeyId": "your_razorpay_key_id",
+  "razorpayKeySecret": "your_razorpay_key_secret"
+}
